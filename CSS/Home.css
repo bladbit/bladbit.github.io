@@ -1,0 +1,55 @@
+body {
+    font-size: 20px;
+    line-height: 2;
+    background-color:rgba(38, 110, 114, 0.1);
+    font-family: Verdana, Geneva, sans-serif;
+    
+}
+nav, main {
+    margin: 1.25rem auto;
+    max-width: 760px;
+}
+header,footer {
+    background-color:rgba(38, 114, 89, 0.9);
+    color: rgb(63, 191, 191);
+    height: 360;
+    text-align: center;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    letter-spacing: 2px; 
+    margin: 1.5rem auto;
+    max-width: 760px;
+
+}
+header {
+    text-shadow: 1px 1px white;
+}
+p img {
+    float: right;
+    margin: 5px;
+    box-shadow: 6px 3px 9px rgb(94, 92, 92);
+   
+
+}
+.responsive {
+    max-width: 25%;
+    height: auto;
+}
+
+
+h2 {
+    text-align: left;
+}
+footer {
+    text-shadow: 1px 1px black;
+    
+}
+
+a:hover {
+    background-color:rgb(38, 114, 114);
+    color: white;
+    text-decoration: none;
+}
+a {
+    color:  rgb(63, 191, 191);
+
+}
